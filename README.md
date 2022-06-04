@@ -21,11 +21,37 @@ Using SQL Database for data storage. As a challenge, we used data written in Ara
 # Libraries that need to install:
 
 pip install panadas
+
 pip install string
+
 pip install re
+
 pip install nltk
+
 pip install numpy
 
+pip install pyodbc
 
+pip install unicodedata
+
+pip install ISRIStemmer
+
+pip install gensim 
+
+pip install corpora
+
+pip install simple_preprocess
+pip install CoherenceModel
+
+# Enable logging for gensim - optional
+
+pip install logging
+logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.ERROR)
+
+pip install warnings
+#warnings.filterwarnings("ignore",category=DeprecationWarning)
+
+# visualization
+pip install pprint 
 
 
