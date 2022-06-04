@@ -18,3 +18,14 @@ Using SQL Database for data storage. As a challenge, we used data written in Ara
 البرمجة اللغوية العصبية: نمذجة موضوعية لتغريدات جريدة سبق الإخراج المتوقع: في نهاية هذا المشروع نتوقع أن يتم نمذجة موضوعات البرمجة اللغوية العصبية على تغريدات جريدة سبق ، وكل ما يتطلبه الأمر من خطوات مسبقة بالإضافة إلى التصور المناسب. استخدام قاعدة بيانات SQL لتخزين البيانات.
 
 استخدمنا تغريدات باللغه العربيه
+# Libraries that need to install:
+
+pip install panadas
+pip install string
+pip install re
+pip install nltk
+pip install numpy
+
+
+
+
