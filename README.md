@@ -15,9 +15,14 @@ At the end of this project we expect to be done NLP Topic Modeling on Sabak News
 Scraping Data.
 Using SQL Database for data storage. As a challenge, we used data written in Arabic.
 
-البرمجة اللغوية العصبية: نمذجة موضوعية لتغريدات جريدة سبق الإخراج المتوقع: في نهاية هذا المشروع نتوقع أن يتم نمذجة موضوعات البرمجة اللغوية العصبية على تغريدات جريدة سبق ، وكل ما يتطلبه الأمر من خطوات مسبقة بالإضافة إلى التصور المناسب. استخدام قاعدة بيانات SQL لتخزين البيانات.
+البرمجة اللغوية العصبية: نمذجة موضوعية لتغريدات جريدة سبق 
+
+الإخراج المتوقع: في نهاية هذا المشروع نتوقع أن يتم نمذجة موضوعات البرمجة اللغوية العصبية على تغريدات جريدة سبق ، وكل ما يتطلبه الأمر من خطوات مسبقة بالإضافة إلى التصور المناسب. 
+
+استخدام قاعدة بيانات SQL لتخزين البيانات.
 
 استخدمنا تغريدات باللغه العربيه
+
 # Libraries that need to install:
 
 pip install panadas
@@ -55,3 +60,9 @@ pip install warnings
 pip install pprint 
 
 
+@RaghdahShElnadree 
+https://www.linkedin.com/in/raghdah-sh-elnadree-m-sc-a16816142/
+https://github.com/RaghdahShElnadree
+
+M.sc Computer Science
+@RaghdahShElnadree
