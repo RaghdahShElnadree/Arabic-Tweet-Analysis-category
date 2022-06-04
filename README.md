@@ -23,7 +23,7 @@ Using SQL Database for data storage. As a challenge, we used data written in Ara
 
 استخدمنا تغريدات باللغه العربيه
 
-# Libraries that need to install:
+### Libraries that need to install:
 
 pip install panadas
 
@@ -48,7 +48,7 @@ pip install corpora
 pip install simple_preprocess
 pip install CoherenceModel
 
-# Enable logging for gensim - optional
+### Enable logging for gensim - optional
 
 pip install logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.ERROR)
@@ -56,7 +56,7 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 pip install warnings
 #warnings.filterwarnings("ignore",category=DeprecationWarning)
 
-# visualization
+### visualization
 pip install pprint 
 
 
